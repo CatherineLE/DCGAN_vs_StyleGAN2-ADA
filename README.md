@@ -6,7 +6,7 @@ Deep Learning - Images Generation
 Previously I have made a DCGAN for 64x64 input image format. see shoes_design repository.
 
 
-- This works deals with DCGAN [2015] with modified G and D Networks to have 128x128 input image format.
+- This work deals with DCGAN [2015] with modified G and D Networks to have 128x128 input image format.
 
 Real with DCGAN: \
 ![image](https://user-images.githubusercontent.com/46371678/142194453-acf562e7-21a8-4221-a800-3110d2930d86.png)
