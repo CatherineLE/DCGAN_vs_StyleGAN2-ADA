@@ -26,7 +26,7 @@ Fake with StyleGAN2 ADA : \
 
 
 
-This is work can be done thanks to :
+This work can be done thanks to :
 
 https://github.com/hminle/shoe-design-using-generative-adversarial-networks
 
