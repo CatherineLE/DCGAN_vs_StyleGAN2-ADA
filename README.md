@@ -20,7 +20,6 @@ Real with StyleGAN2 ADA:  \
 ![image](https://user-images.githubusercontent.com/46371678/142193878-cd32391c-bc57-4322-8e6f-19cd139b29e6.png)
 
 Fake with StyleGAN2 ADA : \
-
 ![image](https://user-images.githubusercontent.com/46371678/142195154-d92eb0e6-9852-48e6-a905-ec3bb8bac0bd.png)
 
 
